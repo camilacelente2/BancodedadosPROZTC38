@@ -7,3 +7,11 @@ De acordo com os comandos aprendidos, programe códigos SQL para criar um banco 
 4. adicione um atributo nome do tipo varchar;
 5. adicione um atributo e-mail do tipo varchar;
 6. adicione um atributo endereço do tipo varchar.
+
+Este aqui foi o segundo projeto a ser desenvolvido em Banco de Dados.
+Desenvolva um banco de dados e relacione tabelas através de chaves estrangeiras ou nomes de colunas iguais. Siga as instruções:
+crie uma base de dados; 
+crie tabelas nessa base de dados;
+em cada tabela, adicione atributos;
+insira dados em cada tabela;
+utilize os comandos Joins para realizar consultas nas tabelas. 
